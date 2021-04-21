@@ -1,0 +1,13 @@
+.heading1{
+    color: brown;
+}
+ #sub_heading{
+     color:chartreuse;
+}
+.detail_Model{
+    border:  20px;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+    border-style: double;
+}
